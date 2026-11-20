@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\pr7_Shitov_WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E04608EB-82F1-4D7F-A0A0-CDF85CBE5E39}|pr7_Shitov_WPF.csproj|d:\\pr7_shitov_wpf\\converters\\weightconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04608EB-82F1-4D7F-A0A0-CDF85CBE5E39}|pr7_Shitov_WPF.csproj|solutionrelative:converters\\weightconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04608EB-82F1-4D7F-A0A0-CDF85CBE5E39}|pr7_Shitov_WPF.csproj|d:\\pr7_shitov_wpf\\converters\\pricestrikethroughconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04608EB-82F1-4D7F-A0A0-CDF85CBE5E39}|pr7_Shitov_WPF.csproj|solutionrelative:converters\\pricestrikethroughconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04608EB-82F1-4D7F-A0A0-CDF85CBE5E39}|pr7_Shitov_WPF.csproj|d:\\pr7_shitov_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E04608EB-82F1-4D7F-A0A0-CDF85CBE5E39}|pr7_Shitov_WPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04608EB-82F1-4D7F-A0A0-CDF85CBE5E39}|pr7_Shitov_WPF.csproj|d:\\pr7_shitov_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04608EB-82F1-4D7F-A0A0-CDF85CBE5E39}|pr7_Shitov_WPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04608EB-82F1-4D7F-A0A0-CDF85CBE5E39}|pr7_Shitov_WPF.csproj|d:\\pr7_shitov_wpf\\models\\parcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04608EB-82F1-4D7F-A0A0-CDF85CBE5E39}|pr7_Shitov_WPF.csproj|solutionrelative:models\\parcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Parcel.cs",
+              "DocumentMoniker": "D:\\pr7_Shitov_WPF\\Models\\Parcel.cs",
+              "RelativeDocumentMoniker": "Models\\Parcel.cs",
+              "ToolTip": "D:\\pr7_Shitov_WPF\\Models\\Parcel.cs",
+              "RelativeToolTip": "Models\\Parcel.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T06:09:07.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeightConverter.cs",
+              "DocumentMoniker": "D:\\pr7_Shitov_WPF\\Converters\\WeightConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\WeightConverter.cs",
+              "ToolTip": "D:\\pr7_Shitov_WPF\\Converters\\WeightConverter.cs",
+              "RelativeToolTip": "Converters\\WeightConverter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T18:08:27.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PriceStrikethroughConverter.cs",
+              "DocumentMoniker": "D:\\pr7_Shitov_WPF\\Converters\\PriceStrikethroughConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\PriceStrikethroughConverter.cs",
+              "ToolTip": "D:\\pr7_Shitov_WPF\\Converters\\PriceStrikethroughConverter.cs",
+              "RelativeToolTip": "Converters\\PriceStrikethroughConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T18:08:23.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\pr7_Shitov_WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\pr7_Shitov_WPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-13T05:33:58.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\pr7_Shitov_WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\pr7_Shitov_WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T05:33:55.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
